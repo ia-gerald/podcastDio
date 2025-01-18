@@ -19,8 +19,14 @@
 </p>
 
 <div align="center">
-    <audio src="./descubra-san-salvador.mp3.mp3" controls title="Podcast editado">Escute aqui o PODCAST - </audio>
+    <audio src="./descubra-san-salvador.mp3.mp3" controls title="Podcast editado">Escute aqui o PODCAST - Arquivo: descubra-san-salvador.mp3.mp3 </audio>
 </div>
+
+-----
+<div align="center">
+    <audio src="./ep01-DIO-Aventuras.mp4" controls title="Podcast para TikTok">Veja a versão do PODCAST para TikTok -> Arquivo: ep01-DIO-Aventuras.mp4 </audio>
+</div>
+-----
 
 # Projeto Podcast Gerado por I.A.s
 
